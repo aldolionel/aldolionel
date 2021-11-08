@@ -1,8 +1,9 @@
 ### Hi there, I am Aldo 👋
 
-Data Science Lecturer at [Purwadhika] (https://purwadhika.com/)
-Data Science Instructor at [Bitlabs Academy] (https://bitlabs.id/)
-Lecturer of Computer Science at [Bunda Mulia University] (https://www.ubm.ac.id/)
+- Data Science Lecturer at [Purwadhika] (https://purwadhika.com/)
+- Data Science Instructor at [Bitlabs Academy] (https://bitlabs.id/)
+- Lecturer of Computer Science at [Bunda Mulia University] (https://www.ubm.ac.id/)
+- Support Engineer/Business Analyst at [Bank Danamon Indonesia, Tbk] (https://www.danamon.co.id/)
 
 <!--
 - 🔭 I’m currently working on
