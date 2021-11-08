@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I am Aldo 👋
 
 <!--
-**aldolionel/aldolionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+Data Science Lecturer at [Purwadhika] (https://purwadhika.com/)
+Data Science Instructor at [Bitlabs Academy] (https://bitlabs.id/)
+Lecturer of Computer Science at [Bunda Mulia University] (https://www.ubm.ac.id/)
 
 Here are some ideas to get you started:
 
