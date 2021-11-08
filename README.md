@@ -1,10 +1,12 @@
 ### Hi there, I am Aldo 👋
 
-<!--
-- 🔭 I’m currently working on
 Data Science Lecturer at [Purwadhika] (https://purwadhika.com/)
 Data Science Instructor at [Bitlabs Academy] (https://bitlabs.id/)
 Lecturer of Computer Science at [Bunda Mulia University] (https://www.ubm.ac.id/)
+
+<!--
+- 🔭 I’m currently working on
+
 
 Here are some ideas to get you started:
 
