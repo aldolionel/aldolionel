@@ -1,8 +1,9 @@
 <h2> Hey there! I'm Aldo 👋</h2>
 
+<p><em> :pushpin: Data Scietist at <a href="https://www.tokopedia.com/">Tokopedia</a></br>
 <p><em> :pushpin: Data Science Lecturer at <a href="https://purwadhika.com/">Purwadhika</a> and <a href="https://bitlabs.id//">Bitlabs Academy</a></br>
-<p><em> :pushpin: Lecturer of Computer Science at <a href="https://www.ubm.ac.id/">Bunda Mulia University</a></br>
- <p>:pushpin: Support Engineer/Business Analyst at <a href="https://www.danamon.co.id/">PT Bank Danamon Indonesia, Tbk</a>
+<p><em> :pushpin: Lecturer of Computer Science at <a href="https://www.ubm.ac.id/">Bunda Mulia University</a> and <a href="https://www.umn.ac.id/">Multimedia Nusantara University</a></br>
+ <p>:pushpin: Support Engineer at <a href="https://www.danamon.co.id/">PT Bank Danamon Indonesia, Tbk</a>
 
 :mortar_board: Post-Graduated Computer Science at <a href="https://telkomuniversity.ac.id/">Telkom University</a>
 
